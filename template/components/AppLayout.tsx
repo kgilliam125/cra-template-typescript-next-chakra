@@ -17,16 +17,7 @@ export default function AppLayout({ children }: LayoutProps) {
         <Footer>
           <HStack>
             <Text>
-              Follow us on{" "}
-              <Link
-                as={NextLink}
-                target="_blank"
-                rel="noopener noreferrer"
-                href="https://twitter.com/copyboost"
-                textColor={"blue.300"}
-              >
-                Twitter
-              </Link>
+              Created with ❤️
             </Text>
           </HStack>
         </Footer>

@@ -9,8 +9,8 @@ const Index: NextPageWithLayout = () => {
   return (
     <VStack>
       <Hero />
-      <MainContent>
-        <Text>Hi there</Text>
+      <MainContent align="center">
+        <Text>Use this area for your app content</Text>
       </MainContent>
     </VStack>
   );

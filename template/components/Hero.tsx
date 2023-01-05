@@ -13,5 +13,5 @@ export const Hero = ({ title }: { title: string }) => (
 );
 
 Hero.defaultProps = {
-  title: "Best. Rewards. Ever.",
+  title: "Time to Build",
 };
