@@ -1,6 +1,6 @@
-This is a creact-react-app template for developing Chromium based browser extensions using
-Typescript, React, ChakraUI, and Craco to avoid the need to eject when building your project. 
-It is based off of the standard create-react-app template.
+This is a creact-react-app template for developing apps based on Typescript, React, and ChakraUI.
+It comes with a predefined Layout for the app along with boilerplate to adjust for NextJs usage and
+is based off of the standard create-react-app template.
 
 Use the following to create your app:
 
