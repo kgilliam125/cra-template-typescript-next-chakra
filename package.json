@@ -1,6 +1,6 @@
 {
   "name": "cra-template-typescript-next-chakra",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "packageManager": "yarn@3.3.0",
   "repository": "git@github.com:kgilliam125/cra-template-typescript-next-chakra.git",
   "license": "MIT"
